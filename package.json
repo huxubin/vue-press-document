@@ -1,0 +1,16 @@
+{
+  "name": "vue-press-document",
+  "version": "1.0.0",
+  "description": "文档项目",
+  "main": "",
+  "scripts": {
+    "dev": "vuepress dev docs -p 9000",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
